@@ -26,3 +26,4 @@ const getArticleBySlug = (req, res) => {
 };
 
 module.exports = { getAllArticles, getArticleBySlug };
+
